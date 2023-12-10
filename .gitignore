@@ -1,2 +1,12 @@
-.DS_Store
-*.import
+# Godot 4+ specific ignores
+.godot/
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+.godot/editor/AudioManager.gd-folding-48e16c43c4f9f81c25c62f675307dde7.cfg
+.godot/imported/ding.wav-522a1004f494a0c40768ae9751657edc.sample
