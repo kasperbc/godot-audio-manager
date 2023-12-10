@@ -18,7 +18,7 @@ func _ready():
 		audio_manager.play_music("cool"))
 		
 	play_music2.connect("pressed", func(): 
-		audio_manager.play_music("sad"))
+		audio_manager.fade_to_music("sad", 1))
 		
 	stop_music.connect("pressed", func(): 
 		audio_manager.stop_music())

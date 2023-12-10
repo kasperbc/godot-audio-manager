@@ -1,11 +1,11 @@
 [gd_scene load_steps=8 format=3 uid="uid://6ryi4gwxr36u"]
 
 [ext_resource type="PackedScene" uid="uid://b2yrjlexgqqvi" path="res://addons/audio-manager/AudioManager.tscn" id="2"]
-[ext_resource type="AudioStream" uid="uid://bs8fbftdck2td" path="res://assets/cool.wav" id="3_1bp00"]
-[ext_resource type="AudioStream" uid="uid://ccmupohwcl5sk" path="res://assets/sad.wav" id="4_syjdd"]
-[ext_resource type="AudioStream" uid="uid://c320befvs3dv6" path="res://assets/crash.wav" id="5_loi1e"]
-[ext_resource type="AudioStream" uid="uid://be675mwn37g0w" path="res://assets/ding.wav" id="6_h7nn0"]
-[ext_resource type="AudioStream" uid="uid://ddfkjh0bhuvw6" path="res://assets/laser.wav" id="7_yct0s"]
+[ext_resource type="AudioStream" uid="uid://8a22swwxjg8v" path="res://assets/cool.wav" id="3_1bp00"]
+[ext_resource type="AudioStream" uid="uid://d2lu8lq2d8pty" path="res://assets/sad.wav" id="4_syjdd"]
+[ext_resource type="AudioStream" uid="uid://d3fqe5326jr80" path="res://assets/crash.wav" id="5_loi1e"]
+[ext_resource type="AudioStream" uid="uid://dgrfvyi4mv4at" path="res://assets/ding.wav" id="6_h7nn0"]
+[ext_resource type="AudioStream" uid="uid://vpob76jsn3fe" path="res://assets/laser.wav" id="7_yct0s"]
 [ext_resource type="Script" path="res://Test.gd" id="8"]
 
 [node name="Test" type="Control"]
